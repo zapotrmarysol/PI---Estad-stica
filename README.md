@@ -1,2 +1,2 @@
-# PI---Estad-stica
+# PI---Estadistica
 Asignatura Procesamiento de Información Estadística. BENV Plan 2012. LEPRIM
