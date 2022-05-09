@@ -1,0 +1,16 @@
+---
+title: "tabla_frecuencias"
+author: "Marysol Zapot"
+date: '2022-03-02'
+output: pdf_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+#Se implementa la matriz iris
+```{r}
+
+```
+
+#Exploración de la Matriz  Iris
